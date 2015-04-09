@@ -1,0 +1,13 @@
+{
+    "name": "tadeas-j/permissions",
+    "type": "package",
+    "description": "An easy permissions for Laravel 5.",
+    "keywords": ["laravel", "permissions"],
+    "homepage": "https://github.com/tadeas-j/permissions",
+    "autoload": {
+        "psr-4": {
+            "Permissions\\": "src/"
+        }
+    }
+    
+}
